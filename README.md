@@ -1,0 +1,2 @@
+# window-fullscreen-copy-spoofer
+
